@@ -19,3 +19,5 @@ func main() {
 	// Output
 	fmt.Printf("Bola dengan jejari %.0f memiliki volume %.4f dan luas kulit %.4f\n", radius, volume, surfaceArea)
 }
+
+c:\Users\user\OneDrive\Gambar\Screenshots\latihan3.PNG

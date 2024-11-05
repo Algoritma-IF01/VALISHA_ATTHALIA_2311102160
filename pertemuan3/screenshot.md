@@ -11,4 +11,10 @@ b. Setiap kondisi if berdiri sendiri. Seharusnya menggunakan else if agar kondis
 3. ![2311102160](latihan2_2.png)
 
 latihan 3
-![2311102160](latiha3.png)
+![2311102160](latihan3.png)
+
+latihan 4
+![2311102160](latihan4.png)
+
+latihan 5
+![2311102160](latihan5.png)
